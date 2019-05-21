@@ -1,7 +1,7 @@
 {
   "name": "XC PWA DEMO",
   "short_name": "pd",
-  "start_url": "/",
+  "start_url": "/xc-pwa/",
   "display": "standalone",
   "background_color": "#333",
   "description": "sdfsdfds",
