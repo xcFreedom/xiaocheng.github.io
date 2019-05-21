@@ -1,5 +1,5 @@
 const SERVICE_WORKER_API = 'serviceWorker';
-const SERVICE_WORKER_FILE_PATH = './sw.js';
+const SERVICE_WORKER_FILE_PATH = './scripts/sw.js';
 
 const isSuppoerServiceWorker = () => SERVICE_WORKER_API in window.navigator;
 
