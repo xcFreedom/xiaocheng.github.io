@@ -1,13 +1,13 @@
 const cacheName = 'v3';
 const dataCacheName = 'data-v1';
 const cacheFiles = [
-  '/',
-  '/views/offline.html',
-  '/scripts/index.js',
-  '/scripts/vconsole.min.js',
-  '/styles/index.css',
-  '/assets/images/book.png',
-  '/assets/images/loading.svg',
+  './',
+  './views/offline.html',
+  './scripts/index.js',
+  './scripts/vconsole.min.js',
+  './styles/index.css',
+  './assets/images/book.png',
+  './assets/images/loading.svg',
 ];
 
 self.addEventListener('install', (e) => {
